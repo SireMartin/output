@@ -1,0 +1,14 @@
+Heartbeat from APM (system 1 component 1)
+Sending all stream request for rate 4
+request mission list
+wait for the mission_count msg
+MISSION_COUNT {target_system : 255, target_component : 0, count : 7}
+current (system 255 component 0)
+Mission items count = 7
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 0, frame : 0, command : 16, current : 1, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 50.9227981567, y : 3.44780492783, z : 0.0}
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 1, frame : 3, command : 22, current : 0, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 0.0, y : 0.0, z : 20.0}
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 2, frame : 3, command : 16, current : 0, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 50.8141708374, y : 2.86953449249, z : 20.0}
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 3, frame : 3, command : 21, current : 0, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 0.0, y : 0.0, z : 0.0}
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 4, frame : 3, command : 22, current : 0, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 0.0, y : 0.0, z : 30.0}
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 5, frame : 3, command : 16, current : 0, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 50.8142547607, y : 2.86994218826, z : 50.0}
+MISSION_ITEM {target_system : 255, target_component : 0, seq : 6, frame : 3, command : 20, current : 0, autocontinue : 1, param1 : 0.0, param2 : 0.0, param3 : 0.0, param4 : 0.0, x : 0.0, y : 0.0, z : 0.0}
